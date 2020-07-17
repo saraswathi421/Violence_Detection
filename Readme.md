@@ -11,8 +11,14 @@
 + `split_video.py` script is used to split the video file in to small parts.
     + Input video path and output paths have to be set in the code to split the video and save in the directory..
 
-Please look in to `violence_30th.ipynb` file for the complete approach of preprocessing and training methods.
-
 You can find the dataset that I have used for this model in the below google drive link [Dataset](https://drive.google.com/drive/folders/1qinHCeXS97tO6wgxNm4BDh9T9hWnWmOH)
 
+### Using Resnet50 model
+Please look in to `violence_30th.ipynb` file for the complete approach of preprocessing and training methods.
+
 You can download trained model file from this google drive link [Model file](https://drive.google.com/file/d/1A8A9Sbdi-g7zMJgWD9CRZzLJu48-OQh7/view?usp=sharing)
+
+### Using VGG16 model
+Please look in to `train-violence-vgg.ipynb` file for the complete approach of preprocessing and training methods.
+
+You can download trained model file from this google drive link [Model file](https://drive.google.com/file/d/1-BEpyMBNDRb94xiymWIQuK-8e8dHTLAR/view?usp=sharing)
