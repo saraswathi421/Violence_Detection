@@ -22,3 +22,4 @@ You can download trained model file from this google drive link [Model file](htt
 Please look in to `train-violence-vgg.ipynb` file for the complete approach of preprocessing and training methods.
 
 You can download trained model file from this google drive link [Model file](https://drive.google.com/file/d/1-BEpyMBNDRb94xiymWIQuK-8e8dHTLAR/view?usp=sharing)
+you can find detaild explaination in my [blog](https://saraswathimamidala30.medium.com/data-downloading-i-have-downloaded-violence-videos-from-youtube-and-split-in-to-small-size-and-91146b986162)
